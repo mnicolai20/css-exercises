@@ -1,0 +1,19 @@
+.oddNum, .numThree{
+    background-color: lightpink;
+    font-family: Verdana, Dejavu-sans, sans-serif;
+}
+
+#numTwo{
+    color: blue;
+    font-size: 36px;
+}
+
+.numThree{
+    font-size: 24px;
+}
+
+#numFour{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
