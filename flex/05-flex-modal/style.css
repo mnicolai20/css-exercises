@@ -68,6 +68,10 @@ button.cancel {
   color: royalblue;
 }
 
+.icon{
+  flex-shrink: 0;
+}
+
 .modal {
   display: flex;
   gap: 16px;
